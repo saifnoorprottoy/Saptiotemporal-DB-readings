@@ -1,8 +1,11 @@
+ 
 # Saptiotemporal-DB-readings
 
-An introduction to spatial database systems (http://dl.acm.org/citation.cfm?id=615206)
+Wikipedia article on [Spatiotemporal Database] (https://en.wikipedia.org/wiki/Spatiotemporal_database)
 
-Spatio-Temporal Data Types: An Approach to Modeling and Querying Moving Objects in Databases (http://dl.acm.org/citation.cfm?id=594784)
+An introduction to [spatial database systems] (http://dl.acm.org/citation.cfm?id=615206)
+
+Spatio-Temporal Data Types: [An Approach to Modeling and Querying Moving Objects in Databases] (http://dl.acm.org/citation.cfm?id=594784)
 
 
 
