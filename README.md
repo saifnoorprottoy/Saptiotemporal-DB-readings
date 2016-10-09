@@ -20,12 +20,12 @@ Spatio-Temporal Data Types: [An Approach to Modeling and Querying Moving Objects
   
   (5)[Query and update efficient B+-tree based indexing of moving objects] (http://dl.acm.org/citation.cfm?id=1316756) , VLDB ' 04
 
-#### New Ideas
+#### On Indexing
   (1)[Indexing the Trajectories of Moving Objects in Symbolic Indoor Space] (http://dl.acm.org/citation.cfm?id=1575744) , SSTD '09
   
   (2)[Indexing multi-dimensional data in a cloud system]  (http://dl.acm.org/citation.cfm?id=1807232) , SIGMOD '10 
   
-#### Directions
+#### Others
   (1)[Spatial, temporal and spatio-temporal databases - hot issues and directions for phd research] (http://dl.acm.or/citation.cfm?id=1024724) , SIGMOD Record 
   
   
