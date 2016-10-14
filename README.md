@@ -1,5 +1,8 @@
  
-# Saptiotemporal-DB-readings
+# Readings in Spatio-Temporal Database Design
+
+My collected readings in Spatio-Temporal Database design.Most of the readings are research papers which were published in various venues.
+
 
 Wikipedia article on [Spatiotemporal Database] (https://en.wikipedia.org/wiki/Spatiotemporal_database)
 
@@ -27,6 +30,5 @@ Spatio-Temporal Data Types: [An Approach to Modeling and Querying Moving Objects
   
 #### Others
   (1)[Spatial, temporal and spatio-temporal databases - hot issues and directions for phd research] (http://dl.acm.or/citation.cfm?id=1024724) , SIGMOD Record 
-  
   
   
