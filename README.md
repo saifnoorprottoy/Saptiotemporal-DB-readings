@@ -1,7 +1,7 @@
  
 # Readings in Spatio-Temporal Database Design
 
-My collected readings in Spatio-Temporal Database design.Most of the readings are research papers which were published in various venues.
+My collected readings in Spatio-Temporal Database design.Most of the readings are research papers from various conferences.
 
 
 Wikipedia article on [Spatiotemporal Database] (https://en.wikipedia.org/wiki/Spatiotemporal_database)
