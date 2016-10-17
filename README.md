@@ -10,6 +10,8 @@ An introduction to [spatial database systems] (http://dl.acm.org/citation.cfm?id
 
 Spatio-Temporal Data Types: [An Approach to Modeling and Querying Moving Objects in Databases] (http://dl.acm.org/citation.cfm?id=594784)
 
+Modeling and Querying Moving [Objects] (http://dl.acm.org/citation.cfm?id=653301) , ICDE '97
+
 
 
 #### Fundamentals      
@@ -21,14 +23,14 @@ Spatio-Temporal Data Types: [An Approach to Modeling and Querying Moving Objects
   
   (4) [Novel Approaches in Query Processing for Moving Object Trajectories] (http://dl.acm.org/citation.cfm?id=672019) , VLDB ' 00
   
-  (5)[Query and update efficient B+-tree based indexing of moving objects] (http://dl.acm.org/citation.cfm?id=1316756) , VLDB ' 04
+  (5) [Query and update efficient B+-tree based indexing of moving objects] (http://dl.acm.org/citation.cfm?id=1316756) , VLDB ' 04
 
 #### On Indexing
-  (1)[Indexing the Trajectories of Moving Objects in Symbolic Indoor Space] (http://dl.acm.org/citation.cfm?id=1575744) , SSTD '09
+  (1) [Indexing the Trajectories of Moving Objects in Symbolic Indoor Space] (http://dl.acm.org/citation.cfm?id=1575744) , SSTD '09
   
-  (2)[Indexing multi-dimensional data in a cloud system]  (http://dl.acm.org/citation.cfm?id=1807232) , SIGMOD '10 
+  (2) [Indexing multi-dimensional data in a cloud system]  (http://dl.acm.org/citation.cfm?id=1807232) , SIGMOD '10 
   
 #### Others
-  (1)[Spatial, temporal and spatio-temporal databases - hot issues and directions for phd research] (http://dl.acm.or/citation.cfm?id=1024724) , SIGMOD Record 
+  (1) [Spatial, temporal and spatio-temporal databases - hot issues and directions for phd research] (http://dl.acm.or/citation.cfm?id=1024724) , SIGMOD Record 
   
   
